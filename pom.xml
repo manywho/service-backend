@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.manywho</groupId>
             <artifactId>sdk</artifactId>
-            <version>1.14.0</version>
+            <version>1.25.0</version>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
